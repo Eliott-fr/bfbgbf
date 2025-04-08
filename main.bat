@@ -1,3 +1,3 @@
 :a
-start calc.exe
+start fivem.exe
 goto a
